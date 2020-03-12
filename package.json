@@ -24,7 +24,7 @@
   "homepage": "https://github.com/bingnz/cucumber-teamcity-formatter#readme",
   "devDependencies": {
     "@babel/core": "^7.8.7",
-    "@babel/plugin-proposal-function-bind": "^7.2.0",
+    "@babel/plugin-proposal-function-bind": "^7.8.3",
     "@babel/plugin-proposal-object-rest-spread": "^7.6.2",
     "@babel/preset-env": "^7.6.3",
     "@babel/register": "^7.6.2",
